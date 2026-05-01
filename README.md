@@ -7,6 +7,14 @@ The system amplifies low-level audio signals and provides a visual indication of
 
 ---
 
+## Interactive PCB Viewer
+
+This project includes an interactive PCB and Bill of Materials (BOM) viewer.
+
+[Open Interactive PCB View](https://ayoub-engineering.github.io/stereo-audio-preamp-kicad/)
+
+---
+
 ## LTspice Simulation Model
 
 ![LTspice Schematic](image/ltspice_schematic.png)
@@ -80,4 +88,6 @@ For further information, please contact the author.
 
 ## Author
 
-Ayoub Khichi Elektrotechnik (B. Eng.) Hochschule Koblenz
+Ayoub Khichi
+Elektrotechnik (B. Eng.)
+Hochschule Koblenz
